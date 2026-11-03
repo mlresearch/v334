@@ -21,10 +21,10 @@ issn: 2640-3498
 id: roddenberry26a
 month: 0
 tex_title: Finsler Geometry, Graph Neural Networks, and You
-firstpage: 143
-lastpage: 164
-page: 143-164
-order: 143
+firstpage: 170
+lastpage: 191
+page: 170-191
+order: 170
 cycles: false
 bibtex_author: Roddenberry, T Mitchell and Baraniuk, Richard
 author:
